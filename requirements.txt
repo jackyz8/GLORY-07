@@ -1,0 +1,10 @@
+httpx
+google-play-scraper
+pycryptodome
+protobuf-decoder
+protobuf
+requests
+aiohttp
+PyJWT
+python-dotenv
+aiohttp-cors
